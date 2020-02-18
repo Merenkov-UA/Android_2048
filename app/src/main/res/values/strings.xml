@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Android_2048</string>
+    <string name="app_title">Game 2048</string>
+    <string name="no_move">Нет хода</string>
+    <string name="victory">Победа!</string>
+    <string name="fail">Конец игры!</string>
+    <string name="goon">Играть дальше</string>
+    <string name="play_again">Сыграть еще раз?</string>
+    <string name="once_more">Еще раз</string>
+    <string name="exit">Выход</string>
+    <string name="size4x4">&lt;  4x4  &gt;</string>
+    <string name="size3x3">&lt;  3x3  &gt;</string>
+    <string name="size5x5">&lt;  5x5  &gt;</string>
+</resources>
